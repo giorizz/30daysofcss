@@ -4,14 +4,13 @@
 
 ### Abaixo estarão os meus projetos, com o que aprendi naquele dia e como ficou o resultado
 #### Espero que goste, e fica aí o desafio para vocês também!!!
+### O que eu aprendi
+-Criar as camadas utilizando a tag <span>;
+-Tranformação 2D ou 3D de um elemento aqui;
+-Transições CSS;
+-Opacidade / transparência do CSS;
+-hover;
+-nth-child ();
 
 * Desafio dia 01 - Ícones de mídia social em camadas! <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day01">Link para meu código</a>
 ![dia 01](https://github.com/giorizz/30daysofcss/blob/master/challenges/day01/day1.gif)
-
-### O que eu aprendi
--Criar as camadas utilizando a tag <span>
--Tranformação 2D ou 3D de um elemento aqui
--Transições CSS
--Opacidade / transparência do CSS
--hover
--nth-child ()
