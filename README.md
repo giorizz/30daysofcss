@@ -6,4 +6,4 @@
 ### Espero que goste, e fica aí o desafio para vocês também!!!
 
 # Desafio dia 01 - Ícones de mídia social em camadas!
-! [/home/giovanni/Área de Trabalho] (day1.gif)
+[/home/giovanni/Área de Trabalho] (day1.gif)
