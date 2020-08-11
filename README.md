@@ -5,5 +5,5 @@
 ### Abaixo estarão os meus projetos, com o que aprendi naquele dia e como ficou o resultado
 #### Espero que goste, e fica aí o desafio para vocês também!!!
 
-* Desafio dia 01 - Ícones de mídia social em camadas!
+* Desafio dia 01 - Ícones de mídia social em camadas! <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day01">LINK</a>
 ![dia 01](https://github.com/giorizz/30daysofcss/blob/master/challenges/day01/day1.gif)
