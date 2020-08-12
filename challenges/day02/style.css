@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.load{
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border-top: 15px solid black;
+    position: relative;
+    animation: a1 2s linear infinite; 
+}
+
+.load::before, .load::after{
+    content: '';
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: -10px;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+
+.load::before{
+    border-top: 15px solid yellow;
+    transform: rotate(120deg);
+}
+
+.load::after{
+    border-top: 15px solid red;
+    transform: rotate(240deg);  
+}
+
+.load span{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    color: black;
+    text-align: center;
+    line-height: 200px;
+    animation: a2 2s linear infinite;
+}
+
+@keyframes a1{
+    to{
+        transform: rotate(720deg);
+    }
+}
+
+@keyframes a2{
+    to{
+        transform: rotate(-720deg);
+    }
+}
+
+.box{
+    left: 20px;
+    position: relative;
+    background: darkgoldenrod;
+    border-radius: 0px 0px 20px 20px;
+    border: 0.25rem solid black;
+    height: 8rem;
+    width: 8rem;
+    outline:0;
+    overflow: hidden;
+}
+
+.box::before{
+    content: 'LOAD';
+    color: white;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box::after{
+    content: '';
+    position: absolute;
+    bottom: -50%;
+    height: 200%;
+    width: 200%;
+    background: white;
+    left: -50%;
+    border-radius: 45%;
+    animation: spin 10s ease-in-out infinite;
+}
+
+@keyframes spin{
+    0%{
+        transform: translateY(0) rotate(0deg);
+    }
+    100%{
+        transform: translateY(-100%) rotate(500deg);
+    }
+}
