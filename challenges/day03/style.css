@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+section img{
+    height: calc(100vh - 50px);
+    background: black no-repeat;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    padding: 0px 10% 0px 10%;
+    height: 80%;
+    width: 80%;
+}
+
+ul{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 50px ;
+    display: flex;
+}
+
+ul li{
+    position: relative;
+    list-style-type: none;
+    width: 20%;
+    height: 100%;
+    mix-blend-mode: hue;
+}
+
+ul:hover li{
+    opacity: 0;
+}
+
+ul li:hover{
+    opacity: 1;
+}
+
+ul li:nth-child(1) {
+    background: red;
+}
+
+ul li:nth-child(2) {
+    background: blue;
+}
+
+ul li:nth-child(3) {
+    background: yellowgreen;
+}
+
+ul li:nth-child(4) {
+    background: aquamarine;
+}
+
+ul li:nth-child(5) {
+    background: plum
+}
+
+ul li:nth-child(6) {
+    background: silver
+}
+
+
+
+ul li:hover:nth-child(1) {
+    box-shadow: 0 0 0 1500px red;
+}
+
+ul li:hover:nth-child(2) {
+    box-shadow: 0 0 0 1500px blue;
+}
+
+ul li:hover:nth-child(3) {
+    box-shadow: 0 0 0 1500px yellowgreen;
+}
+
+ul li:hover:nth-child(4) {
+    box-shadow: 0 0 0 1500px aquamarine;
+}
+
+ul li:hover:nth-child(5) {
+    box-shadow: 0 0 0 1500px plum;
+}
+
+ul li:hover:nth-child(6) {
+    box-shadow: 0 0 0 1500px silver;
+}
