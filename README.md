@@ -17,3 +17,10 @@
 ### O que eu aprendi 
 ###### Animations com Keyframes
 ![dia 02](https://github.com/giorizz/30daysofcss/blob/master/challenges/day02/day02.gif)
+
+
+## DIA 03
+* Loadings <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day03">Link para meu código</a>
+### O que eu aprendi 
+######  hover, nth-child() e "Specifies the height of the content area" conhecido como calc()
+![dia 03](https://github.com/giorizz/30daysofcss/blob/master/challenges/day03/day03.gif)
