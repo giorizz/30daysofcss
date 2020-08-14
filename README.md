@@ -24,3 +24,10 @@
 ### O que eu aprendi 
 ######  hover, nth-child() e "Specifies the height of the content area" conhecido como calc()
 ![dia 03](https://github.com/giorizz/30daysofcss/blob/master/challenges/day03/day03.gif)
+
+
+## DIA 03
+* Loader  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day04">Link para meu código</a>
+### O que eu aprendi 
+###### nth-child(n) span, animation, keyframes, box-shadow
+![dia 03](https://github.com/giorizz/30daysofcss/blob/master/challenges/day04/day04.gif)
