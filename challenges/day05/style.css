@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.sectionc {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.abaclass{
+    position: relative;
+    width: 50%;
+    overflow: hidden;
+    background:skyblue;
+}
+
+.abaclass:nth-child(1) {
+    position: relative;
+    background: url('./img/aviao.jpg');
+    background-size: cover;
+}
+
+.abaclass:nth-child(1) h2 {
+    -webkit-text-stroke: 5px;
+    -webkit-text-fill-color: transparent;
+    left: 100%;
+}
+
+.spanc{
+    color: red;
+}
+
+.spand{
+    color: skyblue;
+}
+
+.textclass {
+    white-space: nowrap;
+    position: absolute;
+    font-size: 12em;
+    line-height: 100vh;
+    color: orchid;
+    animation: marquee 15s linear reverse infinite;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
