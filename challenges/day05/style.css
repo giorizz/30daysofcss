@@ -22,7 +22,7 @@ body {
 
 .abaclass:nth-child(1) {
     position: relative;
-    background: url('./img/aviao.jpg');
+    background: url('aviao.jpg');
     background-size: cover;
 }
 
