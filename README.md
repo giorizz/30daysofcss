@@ -44,4 +44,4 @@
 * Load  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day06">Link para meu código</a>
 ### O que eu aprendi 
 ###### ::before, ::after, nth-child(), animation e keyframes com porcentagem
-![dia 06](https://github.com/giorizz/30daysofcss/blob/master/challenges/day05/day06.gif)
+![dia 06](https://github.com/giorizz/30daysofcss/blob/master/challenges/day06/day06.gif)
