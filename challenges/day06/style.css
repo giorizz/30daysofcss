@@ -1,0 +1,89 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: grid;
+    justify-content:center;
+    align-items: center;
+}
+
+.container{
+    background: black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    transform-origin: center;
+    animation: rotate 2s ease forwards infinite;
+}
+
+.circle{
+    background: black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.circle:nth-child(1){
+    left: -40px;
+    animation: esq 2s ease forwards infinite;
+}
+
+.circle:nth-child(2){
+    left: 40px;
+    top: -35px;
+    animation: dir 2s ease forwards infinite;
+}
+
+@keyframes rotate{
+    0%{
+        background: blue;
+        transform: rotate(0deg);
+    }25%{
+        background: blueviolet;
+    }50%{
+        background: darkblue;
+        transform: rotate(0deg);
+    }70%{
+        background: black;
+    }100%{
+        background: white;
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes esq{
+    0%{
+        background: blue;
+        transform: translatex(-30px);
+    }25%{
+        background: blueviolet;
+        transform: translateX(-70px);
+    }50%{
+        background: darkblue;
+        transform: translateX(-70px);
+    }70%{
+        background: black;
+    }100%{
+        background: white;
+    }
+}
+
+@keyframes dir{
+    0%{
+        background: blue;
+        transform: translatex(30px);
+    }25%{
+        background: blueviolet;
+        transform: translateX(70px);
+    }50%{
+        background: darkblue;
+        transform: translateX(70px);
+    }70%{
+        background: black;
+    }100%{
+        background: white;
+    }
+}
