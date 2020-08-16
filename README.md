@@ -26,8 +26,15 @@
 ![dia 03](https://github.com/giorizz/30daysofcss/blob/master/challenges/day03/day03.gif)
 
 
-## DIA 03
+## DIA 04
 * Loader  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day04">Link para meu código</a>
 ### O que eu aprendi 
 ###### nth-child(n) span, animation, keyframes, box-shadow
-![dia 03](https://github.com/giorizz/30daysofcss/blob/master/challenges/day04/day04.gif)
+![dia 04](https://github.com/giorizz/30daysofcss/blob/master/challenges/day04/day04.gif)
+
+
+## DIA 05
+* Troca de cores em div's diferentes <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day05">Link para meu código</a>
+### O que eu aprendi 
+###### transform, white-space, -webkit-text-fill-color, -webkit-text-stroke, e como de costume nth-child() e animation
+![dia 05](https://github.com/giorizz/30daysofcss/blob/master/challenges/day05/day05.gif)
