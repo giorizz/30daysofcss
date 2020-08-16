@@ -38,3 +38,10 @@
 ### O que eu aprendi 
 ###### transform, white-space, -webkit-text-fill-color, -webkit-text-stroke, e como de costume nth-child() e animation
 ![dia 05](https://github.com/giorizz/30daysofcss/blob/master/challenges/day05/day05.gif)
+
+
+## DIA 06
+* Load  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day06">Link para meu código</a>
+### O que eu aprendi 
+###### ::before, ::after, nth-child(), animation e keyframes com porcentagem
+![dia 06](https://github.com/giorizz/30daysofcss/blob/master/challenges/day05/day06.gif)
