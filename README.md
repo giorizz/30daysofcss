@@ -51,4 +51,4 @@
 * Load letra e barra  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day07">Link para meu código</a>
 ### O que eu aprendi 
 ###### :before, animation e keyframes, @import, text-transform
-![dia 06](https://github.com/giorizz/30daysofcss/blob/master/challenges/day07/day07.gif)
+![dia 07](https://github.com/giorizz/30daysofcss/blob/master/challenges/day07/day07.gif)
