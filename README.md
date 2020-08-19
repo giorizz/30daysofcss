@@ -52,3 +52,10 @@
 ### O que eu aprendi 
 ###### :before, animation e keyframes, @import, text-transform
 ![dia 07](https://github.com/giorizz/30daysofcss/blob/master/challenges/day07/day07.gif)
+
+
+## DIA 08
+* Botão neon  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day08">Link para meu código</a>
+### O que eu aprendi 
+###### :hover,transition-delay, span
+![dia 07](https://github.com/giorizz/30daysofcss/blob/master/challenges/day08/day08.gif)
