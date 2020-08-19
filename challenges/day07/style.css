@@ -25,7 +25,7 @@ h1{
 }
 
 h1:before{
-    content: attr(data-text);
+    content:    (data-text);
     position: absolute;
     top: 0;
     left: 0;
