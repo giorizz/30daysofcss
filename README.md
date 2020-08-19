@@ -58,4 +58,11 @@
 * Botão neon  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day08">Link para meu código</a>
 ### O que eu aprendi 
 ###### :hover,transition-delay, span
-![dia 07](https://github.com/giorizz/30daysofcss/blob/master/challenges/day08/day08.gif)
+![dia 08](https://github.com/giorizz/30daysofcss/blob/master/challenges/day08/day08.gif)
+
+
+## DIA 09
+* Efeito de luzes no texto  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day09">Link para meu código</a>
+### O que eu aprendi 
+###### animation, nth-child()
+![dia 09](https://github.com/giorizz/30daysofcss/blob/master/challenges/day09/day09.gif)
