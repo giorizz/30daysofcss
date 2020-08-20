@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h3{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+@keyframes neon{
+    from{
+        filter: drop-shadow(0 0 0);
+    }
+    to{
+        filter: drop-shadow(0 0 30px var(--cor-neon));
+    }
+}
+
+img{
+    animation: neon 3s alternate infinite ease-in-out;
+}
+
+.dev{
+    --cor-neon: greenyellow;
+    max-width:400px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
+
+
+h3{
+    max-width:800px;
+    max-height:600px;
+    top: 70%;
+    width: auto;
+    height: auto;
+    color: gray;
+    letter-spacing: 15px;
+}
