@@ -27,7 +27,7 @@ h3{
 }
 
 img{
-    animation: neon 3s alternate infinite ease-in-out;
+    animation: neon 1.8s alternate infinite ease-in-out;
 }
 
 .dev{
