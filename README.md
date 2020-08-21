@@ -66,3 +66,10 @@
 ### O que eu aprendi 
 ###### animation, nth-child()
 ![dia 09](https://github.com/giorizz/30daysofcss/blob/master/challenges/day09/day09.gif)
+
+
+## DIA 10
+* Efeito de luzes no texto  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day10">Link para meu código</a>
+### O que eu aprendi 
+###### animation, nth-child()
+![dia 10](https://github.com/giorizz/30daysofcss/blob/master/challenges/day10/day10.gif)
