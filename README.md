@@ -69,7 +69,7 @@
 
 
 ## DIA 10
-* Efeito de luzes no texto  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day10">Link para meu código</a>
+* Efeito de neon em imagem  <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day10">Link para meu código</a>
 ### O que eu aprendi 
-###### animation, nth-child()
+###### animation, drop-shadow com variavel
 ![dia 10](https://github.com/giorizz/30daysofcss/blob/master/challenges/day10/day10.gif)
