@@ -79,4 +79,12 @@
 * Efeito Pulse <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day11">Link para meu código</a>
 ### O que eu aprendi 
 ###### animation, !important
-![dia 10](https://github.com/giorizz/30daysofcss/blob/master/challenges/day11/day11.gif)
+![dia 11](https://github.com/giorizz/30daysofcss/blob/master/challenges/day11/day11.gif)
+
+
+
+## DIA 12
+* Botão de vidro <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day12">Link para meu código</a>
+### O que eu aprendi 
+###### animation, !important
+![dia 12](https://github.com/giorizz/30daysofcss/blob/master/challenges/day12/day12.gif)
