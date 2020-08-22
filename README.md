@@ -73,3 +73,10 @@
 ### O que eu aprendi 
 ###### animation, drop-shadow com variavel
 ![dia 10](https://github.com/giorizz/30daysofcss/blob/master/challenges/day10/day10.gif)
+
+
+## DIA 11
+* Efeito Pulse <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day11">Link para meu código</a>
+### O que eu aprendi 
+###### animation, !important
+![dia 10](https://github.com/giorizz/30daysofcss/blob/master/challenges/day11/day11.gif)

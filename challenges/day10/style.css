@@ -16,7 +16,6 @@ h3{
     transform: translate(-50%, -50%);
 }
 
-
 @keyframes neon{
     from{
         filter: drop-shadow(0 0 0);

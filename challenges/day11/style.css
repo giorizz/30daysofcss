@@ -19,7 +19,7 @@ p{
     position: absolute;
     margin-top: -75px;
     margin-left: 10px;
-    font-size: 10em !important;
+    font-size: 10em     ;
     animation: pulse 3s linear infinite;
 }
 
