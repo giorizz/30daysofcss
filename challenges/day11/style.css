@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0; 
+    background-color: violet;  
+}
+
+.circle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 150px 150px;
+    background-color: transparent;
+    border: 30px solid black;
+    border-radius: 50%;
+}
+
+p{
+    position: absolute;
+    margin-top: -75px;
+    margin-left: 10px;
+    font-size: 10em !important;
+    animation: pulse 3s linear infinite;
+}
+
+@keyframes pulse {
+    0%{
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        transform: scale(0);
+    }20%{
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        transform: scale(1.5);
+    }40%{
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        transform: scale(3.3);
+    }60%{
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        transform: scale(3.3);
+    }80%{
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        transform: scale(1.5);
+    }100%{
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        transform: scale(0);
+    }
+}
