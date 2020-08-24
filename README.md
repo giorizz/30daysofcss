@@ -88,3 +88,11 @@
 ### O que eu aprendi 
 ###### nth-child(), :before, :after, :hover
 ![dia 12](https://github.com/giorizz/30daysofcss/blob/master/challenges/day12/day12.gif)
+
+
+
+## DIA 13
+* Botão hamburguer <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day13">Link para meu código</a>
+### O que eu aprendi 
+###### nth-child(), :checked
+![dia 13](https://github.com/giorizz/30daysofcss/blob/master/challenges/day13/day13.gif)
