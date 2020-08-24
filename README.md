@@ -96,3 +96,10 @@
 ### O que eu aprendi 
 ###### nth-child(), :checked
 ![dia 13](https://github.com/giorizz/30daysofcss/blob/master/challenges/day13/day13.gif)
+
+
+## DIA 14
+* Botão com efeito flutuante <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day14">Link para meu código</a>
+### O que eu aprendi 
+###### :hover, ::before e z-index
+![dia 14](https://github.com/giorizz/30daysofcss/blob/master/challenges/day14/day14.gif)
