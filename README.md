@@ -103,3 +103,9 @@
 ### O que eu aprendi 
 ###### :hover, ::before e z-index
 ![dia 14](https://github.com/giorizz/30daysofcss/blob/master/challenges/day14/day14.gif)
+
+## DIA 15
+* Texto(h2) com efeito <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day15">Link para meu código</a>
+### O que eu aprendi 
+###### clip-path: polygon(), @keyframes, h2:nth-child()
+![dia 15](https://github.com/giorizz/30daysofcss/blob/master/challenges/day15/day15.gif)
