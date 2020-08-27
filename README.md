@@ -116,3 +116,11 @@
 ### O que eu aprendi 
 ###### :hover, ::after, ::before, translate e rotate
 ![dia 16](https://github.com/giorizz/30daysofcss/blob/master/challenges/day16/day16.gif)
+
+
+
+## DIA 17
+* Ícones de mídias sociais com efeito hover e before <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day17">Link para meu código</a>
+### O que eu aprendi 
+###### :hover, :nth-child(),
+![dia 17](https://github.com/giorizz/30daysofcss/blob/master/challenges/day17/day17.gif)
