@@ -109,3 +109,10 @@
 ### O que eu aprendi 
 ###### clip-path: polygon(), @keyframes, h2:nth-child()
 ![dia 15](https://github.com/giorizz/30daysofcss/blob/master/challenges/day15/day15.gif)
+
+
+## DIA 16
+* Botão com efeito 3D <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day16">Link para meu código</a>
+### O que eu aprendi 
+###### :hover, ::after, ::before, translate e rotate
+![dia 16](https://github.com/giorizz/30daysofcss/blob/master/challenges/day16/day16.gif)
