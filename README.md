@@ -124,3 +124,11 @@
 ### O que eu aprendi 
 ###### :hover, :nth-child(),
 ![dia 17](https://github.com/giorizz/30daysofcss/blob/master/challenges/day17/day17.gif)
+
+
+
+## DIA 18
+* Loader <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day18">Link para meu código</a>
+### O que eu aprendi 
+###### animations, :nth-child(), @keyframes
+![dia 17](https://github.com/giorizz/30daysofcss/blob/master/challenges/day18/day18.gif)
