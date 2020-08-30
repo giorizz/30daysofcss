@@ -139,3 +139,10 @@
 ### O que eu aprendi 
 ###### animations, background-clip
 ![dia 19](https://github.com/giorizz/30daysofcss/blob/master/challenges/day19/day19.gif)
+
+
+## DIA 20
+* Texto esfumaçado<a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/20">Link para meu código</a>
+### O que eu aprendi 
+###### nth-child, transform, :hover
+![dia 20](https://github.com/giorizz/30daysofcss/blob/master/challenges/day20/day20.gif)
