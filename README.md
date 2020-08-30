@@ -132,3 +132,10 @@
 ### O que eu aprendi 
 ###### animations, :nth-child(), @keyframes
 ![dia 17](https://github.com/giorizz/30daysofcss/blob/master/challenges/day18/day18.gif)
+
+
+## DIA 19
+* Fundo com texto animado<a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/day19">Link para meu código</a>
+### O que eu aprendi 
+###### animations, background-clip
+![dia 19](https://github.com/giorizz/30daysofcss/blob/master/challenges/day19/day19.gif)
