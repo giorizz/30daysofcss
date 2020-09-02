@@ -154,3 +154,10 @@
 ### O que eu aprendi 
 ###### :after, :before, :checked, cubic-bezier()
 ![dia 21](https://github.com/giorizz/30daysofcss/blob/master/challenges/day21/day21.gif)
+
+
+## DIA 22
+* Texto alterado <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/22">Link para meu código</a>
+### O que eu aprendi 
+###### :before, @keyframes com content's
+![dia 22](https://github.com/giorizz/30daysofcss/blob/master/challenges/day22/day22.gif)

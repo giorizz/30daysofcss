@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+span::before{
+    content: '';
+    animation: anime 3s infinite;
+}
+
+@keyframes anime{
+    0% {content: '💻'}
+
+    50%{content: '⚽';}
+
+    60%{content: '🎮';}
+
+    100%{content: '👶🏻';}
+}
