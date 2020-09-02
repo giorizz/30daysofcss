@@ -146,3 +146,11 @@
 ### O que eu aprendi 
 ###### nth-child, transform, :hover
 ![dia 20](https://github.com/giorizz/30daysofcss/blob/master/challenges/day20/day20.gif)
+
+
+
+## DIA 21
+* Botão ON/OFF<a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/21">Link para meu código</a>
+### O que eu aprendi 
+###### :after, :before, :checked, cubic-bezier()
+![dia 21](https://github.com/giorizz/30daysofcss/blob/master/challenges/day21/day21.gif)
