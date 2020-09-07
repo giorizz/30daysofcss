@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: arial;
+    font-size: 90px;
+    line-height: 90px;
+    letter-spacing: 15px;
+    text-shadow: 0 1px 0 lightslategray,
+                 0 2px 0 lightslategray,
+                 0 3px 0 lightslategray,
+                 0 4px 0 lightslategray,
+                 0 30px 5px rgba(0, 0, 0, 0.4);
+    animation: rotacao 3s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes rotacao{
+    from {transform: rotate(3deg);}
+
+    to {transform: rotate(-3deg);}
+}
