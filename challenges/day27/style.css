@@ -24,7 +24,7 @@ h1{
 }
 
 @keyframes rotacao{
-    from {transform: rotate(3deg);}
+    from {transform: rotate(10deg);}
 
-    to {transform: rotate(-3deg);}
+    to {transform: rotate(-10deg);}
 }
