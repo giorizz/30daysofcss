@@ -206,7 +206,15 @@
 
 
 ## DIA 26
-* Float Action Button <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/26">Link para meu código</a>
+* Botão de ação flutuante <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/26">Link para meu código</a>
 ### O que eu aprendi 
 ###### nth-child(), :checked 
 ![dia 26](https://github.com/giorizz/30daysofcss/blob/master/challenges/day26/day26.gif)
+
+
+
+## DIA 27
+* Texto flutuante <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/27">Link para meu código</a>
+### O que eu aprendi 
+###### animations 
+![dia 27](https://github.com/giorizz/30daysofcss/blob/master/challenges/day27/day27.gif)
