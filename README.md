@@ -161,3 +161,11 @@
 ### O que eu aprendi 
 ###### :before, @keyframes com content's
 ![dia 22](https://github.com/giorizz/30daysofcss/blob/master/challenges/day22/day22.gif)
+
+
+
+## DIA 23
+* Pendulos de Newton <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/23">Link para meu código</a>
+### O que eu aprendi 
+###### ::before, ::after, animations, last-child, first-child
+![dia 23](https://github.com/giorizz/30daysofcss/blob/master/challenges/day23/day23.gif)
