@@ -218,3 +218,11 @@
 ### O que eu aprendi 
 ###### animations 
 ![dia 27](https://github.com/giorizz/30daysofcss/blob/master/challenges/day27/day27.gif)
+
+
+
+## DIA 28
+* Texto flutuante <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/28">Link para meu código</a>
+### O que eu aprendi 
+###### animations, :before 
+![dia 28](https://github.com/giorizz/30daysofcss/blob/master/challenges/day28/day28.gif)
