@@ -170,6 +170,7 @@
 ###### ::before, ::after, animations, last-child, first-child
 ![dia 23](https://github.com/giorizz/30daysofcss/blob/master/challenges/day23/day23.gif)
 
+<p></p>
 
 ## DIA 24
 * Loader esferas <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/24">Link para meu código</a>
