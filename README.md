@@ -208,5 +208,5 @@
 ## DIA 26
 * Float Action Button <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/26">Link para meu código</a>
 ### O que eu aprendi 
-###### animations
+###### nth-child(), :checked 
 ![dia 26](https://github.com/giorizz/30daysofcss/blob/master/challenges/day26/day26.gif)
