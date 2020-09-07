@@ -169,3 +169,10 @@
 ### O que eu aprendi 
 ###### ::before, ::after, animations, last-child, first-child
 ![dia 23](https://github.com/giorizz/30daysofcss/blob/master/challenges/day23/day23.gif)
+
+
+## DIA 24
+* Loader esferas <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/24">Link para meu código</a>
+### O que eu aprendi 
+###### nt-child() animations
+![dia 24](https://github.com/giorizz/30daysofcss/blob/master/challenges/day24/day24.gif)
