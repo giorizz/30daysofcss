@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Day 29</title>
+</head>
+<body>
+    <section>
+        <img src="bg.jpg" id="bg">
+        <img src="moon.png" id="moon">
+        <img src="mountain.png" id="mountain">
+        <img src="road.png" id="road">
+        <h2 id="text">PARALLAX LUA</h2>
+    </section>
+    <script>
+        let bg = document.getElementById("bg");
+        let moon = document.getElementById("moon");
+        let mountain = document.getElementById("mountain");
+        let road = document.getElementById("road");
+        let text = document.getElementById("text");
+
+        window.addEventListener('scroll', function(){
+            var value = window.scrollY
+
+            bg.style.top = value *.5 + 'px';
+            moon.style.left = -value *.5 + 'px';
+            mountain.style.top = -value *.15 + 'px';
+            road.style.top = value *.15 + 'px';
+            text.style.top = value * 1 + 'px';
+        })
+    </script>
+    
+</body>
+</html>

@@ -226,3 +226,13 @@
 ### O que eu aprendi 
 ###### animations, :before 
 ![dia 28](https://github.com/giorizz/30daysofcss/blob/master/challenges/day28/day28.gif)
+
+
+
+## DIA 29
+* Parallax da lua <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/29">Link para meu código</a>
+### O que eu aprendi 
+###### :after com mix-blend-mode, :before e <script> </script>
+![dia 29](https://github.com/giorizz/30daysofcss/blob/master/challenges/day29/day29.gif)
+
+
