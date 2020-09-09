@@ -232,7 +232,14 @@
 ## DIA 29
 * Parallax da lua <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/29">Link para meu código</a>
 ### O que eu aprendi 
-###### :after com mix-blend-mode, :before e <script> </script>
+###### :after com mix-blend-mode, sobreposição com z-index, :before e <script>
 ![dia 29](https://github.com/giorizz/30daysofcss/blob/master/challenges/day29/day29.gif)
 
+
+
+## DIA 30
+* Parallax montanhas <a href="https://github.com/giorizz/30daysofcss/tree/master/challenges/30">Link para meu código</a>
+### O que eu aprendi 
+###### :before, sobreposição com z-index e <script> 
+![dia 30](https://github.com/giorizz/30daysofcss/blob/master/challenges/day30/day30.gif)
 

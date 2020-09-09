@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.zoom{
+    width: 100%;
+    height: 1000px;
+    position: relative;
+    overflow: hidden;
+    background: url(bg.jpg);
+    background-size: cover;
+}
+
+.zoom::before{
+    content: '';
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+    z-index: 1000;
+    background: linear-gradient(transparent, red);
+}
+
+#text{
+    margin-top: 600px;
+    position: relative;
+    color: lightcyan;
+    font-size: 7em;
+    z-index: 1;
+}
+
+.zoom #mountain1{
+    position: absolute;
+    left: 40%;
+    width: 100%;
+    transform: translateX(-50%);
+    z-index: 10;
+}
+
+.zoom #mountain2{
+    position: absolute;
+    left: 40%;
+    right: 100%;
+    z-index: 9;
+}
+
+.zoom #text{
+    position: absolute;
+    left: 20%;
+    width: 100%;
+    transform: translateY(50%);
+}
+
+.content{
+    padding: 100px;
+    box-sizing: border-box;
+}
+
+.content h3{
+    margin: 0;
+    padding: 0;
+    font-size: 4em;
+}
+
+.content p{
+    font-size: 1.5em;
+}
